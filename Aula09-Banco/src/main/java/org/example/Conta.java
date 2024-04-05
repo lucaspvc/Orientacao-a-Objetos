@@ -13,7 +13,7 @@ public class Conta {
         return saldo;
     }
     public boolean depositar(Double valor){
-        this.saldo = valor;
+        this.saldo = this.saldo + valor;
         return TRUE;
     }
     public boolean sacar(Double valor){
