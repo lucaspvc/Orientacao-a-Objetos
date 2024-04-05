@@ -36,11 +36,11 @@ Abordagem dos conceitos fundamentais e avançados da Programação Orientada a O
 - [Aula 07](Aula07)
 
 ### Aula 08 - Laboratório: Classes, objetos, modificadores de acesso e encapsulamento
-- [Aula 08](Aula08-Transportadora)
+- [Aula 08-Transportadora](Aula08-Transportadora)
   
 ### Aula 09 - Laboratório: Manipulação de referências e Associação 1:1 entre objetos
-- [Aula 09](Aula09-Ponto)
-- [Aula 09](Aula09-Banco)
+- [Aula 09-Ponto](Aula09-Ponto)
+- [Aula 09-Banco](Aula09-Banco)
 
 ### Aula 10 - Laboratório: Arrays em Java
 - [Aula 10]
