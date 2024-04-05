@@ -2,6 +2,8 @@
 
 ## Resumo da Matéria
 
+### Autor: Lucas Pessoa Oliveira Alves
+
 A Programação Orientada a Objetos (POO) é um paradigma de programação baseado no conceito de "objetos", que podem conter dados e código para manipular esses dados. O principal objetivo da POO é organizar o código de uma forma mais intuitiva e reutilizável, facilitando a manutenção e extensão do software.
 
 Abordagem dos conceitos fundamentais e avançados da Programação Orientada a Objetos, incluindo:
