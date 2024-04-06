@@ -1,4 +1,5 @@
 package org.example;
+import java.util.Arrays;
 
 public class TesteArrays {
     public static void main(String[] args) {
@@ -10,11 +11,23 @@ public class TesteArrays {
         exibirArray(array1);
 
         int[][] matriz = new int[5][];
-        matriz[0] = new int[]{1, 2, 3, 4, 5};
-        matriz[1] = new int[]{1,2,3,4};
-        matriz[2] = new int[]{1,2,3};
-        matriz[3] = new int[]{1,2};
-        matriz[4] = new int[]{1};
+
+        for (int i = 0; i < matriz.length; i++){
+            matriz[i] = new int [i];
+            for (int j = 0; j < i; j++){
+                matriz[i][j] = i * j;
+            }
+        }
+        String str = Arrays.toString(matriz[0]);
+        System.out.print("[" + str + ", ");
+        str = Arrays.toString(matriz[1]);
+        System.out.print(str + ", ");
+        str = Arrays.toString(matriz[2]);
+        System.out.print(str + ", ");
+        str = Arrays.toString(matriz[3]);
+        System.out.print(str + ", ");
+        str = Arrays.toString(matriz[4]);
+        System.out.print(str + "] ");
 
     }
     public static void exibirArray(int[] array) {
