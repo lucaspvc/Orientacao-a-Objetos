@@ -45,7 +45,9 @@ Abordagem dos conceitos fundamentais e avançados da Programação Orientada a O
 - [Aula 09-Banco](Aula09-Banco)
 
 ### Aula 10 - Laboratório: Arrays em Java
-- [Aula 10]
+- [Aula 10-Exercício 1 e 2](Aula10-Arrays)
+- [Aula 10-Exercício 3](Aula10-Banco)
+- [Aula 10-Exercício 4](Aula10-ArrayList)
   
 ### Aula 11 - Laboratório: Herança e polimorfismo em Java (Parte 1/2)
 - [Aula 11]
